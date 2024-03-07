@@ -10,8 +10,7 @@ class Bio {
   String location = 'Fresno, CA, USA';
   String bio = 'Tech enthusiast with a background in software engineering and business.';
   
-  List<String> workExperience = ['MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon'];
-  List<String> hobbies = ['Skydiving', 'Snowboarding', 'Tacos'];
+  List<String> hobbies = ['Playing Basketball', 'Gaming'];
   String currentProjects = '100 Days of Flutter';
   List<String> learning = ['Network Security', 'Software Architecture'];
 }
