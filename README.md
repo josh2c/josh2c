@@ -14,6 +14,13 @@ class Bio {
   List<String> hobbies = ['Playing Basketball', 'Gaming'];
   String currentProjects = '100 Days of Flutter';
   List<String> learning = ['Network Security', 'Software Architecture'];
+
+class Skills {
+  String pronouns = "He" | "Him";
+  List<String> code = ["Flutter", "Python", "Java", "Javascript"];
+  List<String> devops = ["AWS", "Docker🐳", "Route54"];
+  List<String> databases = ["Postgres", "MongoDb"];
+  
 }
 ```
 
