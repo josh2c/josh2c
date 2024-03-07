@@ -4,10 +4,10 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
+ 	user = 'Josh'
 		current_work = 'Writing code'
 		hobbies = [
-				'Drawing',
+				'Watching The Lakers',
 				'Watching Anime',
 				'Reading Sci-Fi Novels'
 				'Being up all Night chasing that ONE BUG...'
@@ -16,8 +16,8 @@
 	def getCity():
 		return Vancouver_Canada()
 	
-	def Ambitions():
-		LearnJapanese()
+	def Skills():
+		Flutter
 		CreateSkyNet()
 		FinishMyNovel()
 		# Assume 10 more awesome ambitions here  ;)
