@@ -1,6 +1,6 @@
-### Hello there 👋
+## Hello there 👋
 
-#### A Flutter Dev by day ☼ and asleep by night ☾
+# A Flutter Dev by day ☼ and asleep by night ☾
 
 Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
 Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
