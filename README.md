@@ -18,7 +18,7 @@ class Bio {
 ```
 
 
-<p align="center"> 
+<p align="right"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/josh2c/count.svg" />
 </p>
