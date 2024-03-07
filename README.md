@@ -12,7 +12,7 @@ class Bio {
   
   List<String> workExperience = ['MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon'];
   List<String> hobbies = ['Skydiving', 'Snowboarding', 'Tacos'];
-  String currentProject = 'Flutter Development';
+  String currentProjects = '100 Days of Flutter';
   List<String> learning = ['Network Security', 'Software Architecture'];
 }
 
