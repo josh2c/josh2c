@@ -15,7 +15,7 @@ class Bio {
 
 class Skills {
   List<String> code = ["Flutter", "Python", "Java", "Javascript"];
-  List<String> devops = ["AWS", "Docker🐳", "Route54"];
+  List<String> devops = ["AWS", "Docker🐳", "Route53"];
   List<String> databases = ["Postgres", "MongoDb"];
   
 }
