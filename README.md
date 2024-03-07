@@ -20,3 +20,9 @@ class Bio {
   String currentProjects = '100 Days of Flutter';
   List<String> learning = ['Network Security', 'Software Architecture'];
 }
+
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/josh2c/count.svg" />
+</p>
