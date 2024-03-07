@@ -1,6 +1,4 @@
-## Hello there 👋
-
-# A Flutter Dev by day ☼ and asleep by night ☾
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
 Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
