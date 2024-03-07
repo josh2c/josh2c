@@ -8,7 +8,7 @@
 				'Watching Anime',
 				'Reading Sci-Fi Novels'
 				'Being up all Night chasing that ONE BUG...'
-]
+		]
 	
 	def getCity():
 		return Vancouver_Canada()
