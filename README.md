@@ -2,6 +2,7 @@
 
 Welcome to my GitHub profile! I'm J, a passionate Flutter developer based in California. Here's a little bit about me:
 
+```javascript
 const anmol = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Java", "PHP"],
@@ -21,3 +22,4 @@ const anmol = {
     currentFocus: "No Focus point at this time",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
+```
