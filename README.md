@@ -16,6 +16,8 @@ class Bio {
   List<String> learning = ['Network Security', 'Software Architecture'];
 }
 
+<!-- Blank line to visually separate the code blocks -->
+
 
 <p align="center"> 
   Visitors count<br>
