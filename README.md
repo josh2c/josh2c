@@ -10,10 +10,8 @@ class Bio {
   String name = Josh';
   String location = 'Fresno, CA, USA';
   String bio = 'Tech enthusiast with a background in software engineering and business.';
-  
   List<String> hobbies = ['Playing Basketball', 'Gaming'];
   String currentProjects = '100 Days of Flutter';
-  List<String> learning = ['Network Security', 'Software Architecture'];
 
 class Skills {
   String pronouns = "He" | "Him";
