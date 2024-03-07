@@ -15,7 +15,7 @@ class Bio {
   String currentProjects = '100 Days of Flutter';
   List<String> learning = ['Network Security', 'Software Architecture'];
 }
-<!-- Closing the Dart code block -->
+```
 
 
 <p align="center"> 
