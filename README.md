@@ -14,7 +14,6 @@ class Bio {
   String currentProjects = '100 Days of Flutter';
 
 class Skills {
-  String pronouns = "He" | "Him";
   List<String> code = ["Flutter", "Python", "Java", "Javascript"];
   List<String> devops = ["AWS", "Docker🐳", "Route54"];
   List<String> databases = ["Postgres", "MongoDb"];
