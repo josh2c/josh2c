@@ -15,8 +15,8 @@
 	
 	def Skills():
 		Flutter
-		CreateSkyNet()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
+		Dart
+		Node.Js
+		
 	
  ```
