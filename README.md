@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm Josh, a Flutter developer based in California.
 
 class Bio {
   String _name = Josh';
+  int age = 24
   String _location = 'Fresno, CA, USA';
   String _bio = 'Tech enthusiast with a background in software engineering and business.';
   List<String> _hobbies = ['Playing Basketball', 'Gaming'];
