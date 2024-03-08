@@ -7,16 +7,16 @@ Welcome to my GitHub profile! I'm Josh, a Flutter developer based in California.
 
 
 class Bio {
-  String name = Josh';
-  String location = 'Fresno, CA, USA';
-  String bio = 'Tech enthusiast with a background in software engineering and business.';
-  List<String> hobbies = ['Playing Basketball', 'Gaming'];
-  String currentGoal = 'Zero To Hero, Flutter Journey';
+  String _name = Josh';
+  String _location = 'Fresno, CA, USA';
+  String _bio = 'Tech enthusiast with a background in software engineering and business.';
+  List<String> _hobbies = ['Playing Basketball', 'Gaming'];
+  String _currentGoal = 'Zero To Hero, Flutter Journey';
 
 class Skills {
-  List<String> code = ['Flutter', 'Python', 'Java', 'Javascript'];
-  List<String> devops = ['AWS', 'Docker🐳', 'Route53'];
-  List<String> databases = ['Postgres', 'MongoDb'];
+  List<String> _code = ['Flutter', 'Python', 'Java', 'Javascript'];
+  List<String> _devops = ['AWS', 'Docker🐳', 'Route53'];
+  List<String> _databases = ['Postgres', 'MongoDb'];
   
 }
 ```
