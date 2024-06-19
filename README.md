@@ -15,7 +15,7 @@ class Bio {
   String _currentGoal = 'Zero To Hero, Flutter Journey';
 
 class Skills {
-  List<String> _code = ['Flutter', 'Python', 'Java', 'Javascript'];
+  List<String> _code = ['Flutter', 'Python', 'Java', 'Javascript',"C++"];
   List<String> _devops = ['AWS', 'Docker🐳', 'Route53'];
   List<String> _databases = ['Postgres', 'MongoDb'];
   
