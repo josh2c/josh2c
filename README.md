@@ -20,10 +20,8 @@ Welcome to my GitHub profile! I'm Josh.
 - Actively participating in coding competitions and hackathons (International participation count: 5+).
 - Learning Data Structures and Algorithms in Python; regularly solving problems on coding platforms (100+ problems solved).
 - Topped a local trivia competition with a focus on tech and general knowledge.
-- Honed my typing skills to a speed of 90 WPM.
 -Aspiring full-stack developer with current expertise in frontend development.
 -Avid gamer with an interest in strategy games and esports.
-- Passionate about storytelling and building tech solutions that make a difference.
 
 
 
