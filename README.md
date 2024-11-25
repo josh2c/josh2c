@@ -131,25 +131,7 @@ const anmol = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C386%20hrs%2010%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-955-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.7%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 251.1 kB Used in GitHub's Storage 
- > 
-> 🏆 199 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 22 Public Repositories 
- > 
-> 🔑 29 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
