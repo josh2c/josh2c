@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Josh.
 - Currently developing Trezure, a daily fantasy sports app focused on real-time updates and user engagement.
 - Learning Data Structures and Algorithms in Python; regularly solving problems on coding platforms (100+ problems solved).
 - Aspiring full-stack developer with current expertise in frontend development.
-- Avid gamer with an interest in strategy games and esports.
+- Avid gamer with an interest in strategy games.
 
 
 
