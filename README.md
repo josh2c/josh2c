@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Josh.
   <img src="https://profile-counter.glitch.me/josh2c/count.svg" />
 </p>
 
-## About Me:
+## What I Do:
 
 
 - Played against OpTic Gaming in Call of Duty and won a $2K tournament.
