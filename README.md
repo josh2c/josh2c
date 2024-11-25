@@ -14,10 +14,7 @@ Welcome to my GitHub profile! I'm Josh.
 
 
 - Played against OpTic Gaming in Call of Duty and won a $2K tournament.
-- Created the California Farmworkers website—a passion project inspired by my family’s background in agriculture.
-- Built and managed various WordPress websites for small businesses and personal projects.
 - Currently developing Trezure, a daily fantasy sports app focused on real-time updates and user engagement.
-- Actively participating in coding competitions and hackathons (International participation count: 5+).
 - Learning Data Structures and Algorithms in Python; regularly solving problems on coding platforms (100+ problems solved).
 - Topped a local trivia competition with a focus on tech and general knowledge.
 - Aspiring full-stack developer with current expertise in frontend development.
