@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm Josh.
 - Played against OpTic Gaming in Call of Duty and won a $2K tournament.
 - Currently developing Trezure, a daily fantasy sports app focused on real-time updates and user engagement.
 - Learning Data Structures and Algorithms in Python; regularly solving problems on coding platforms (100+ problems solved).
-- Topped a local trivia competition with a focus on tech and general knowledge.
 - Aspiring full-stack developer with current expertise in frontend development.
 - Avid gamer with an interest in strategy games and esports.
 
