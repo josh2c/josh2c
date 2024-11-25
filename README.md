@@ -36,7 +36,6 @@ Welcome to my GitHub profile! I'm Josh.
 
 ```javascript
 const anmol = {
-    pronouns: "He" | "Him",
     code: ["TypeScript", "Javascript", "Python", "Dart"],
     askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
     technologies: {
