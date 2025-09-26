@@ -16,7 +16,7 @@
 
 | **Category**      | **Description**                                                                                                                                                                                           |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Creating**      | Daily fantasy sports platform [TREZURE](https://www.playtrezure.com/)                                                                    |
+| **Building**      | Daily fantasy sports platform [TREZURE](https://www.playtrezure.com/) , HomeLab <<                                                                   |
 | **Writing**       | [Blog posts](https://josh2c.github.io/jgarcia/index.html).                                                                                                                                                                     |
 | **Yapping**       | [X](https://x.com/joshgarciac) / [LinkedIn](https://www.linkedin.com/in/josh-garcia-08687a15b/).                                  |
 | **Lifestyle**    | [Instagram](https://www.instagram.com/joshgarc1a_/) – My Journey.                                                                                                                                                                                                                                              |
