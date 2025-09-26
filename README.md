@@ -9,7 +9,7 @@
 <p align="center">
         <!-- Intro -->
         <samp>
-                「 I'm the founder of Trezure from <b>Cali</b> 」
+                「 I'm the founder of <b>Trezure</b> 」
                 <br>
                 「 Focused on creating</b> 」
                 <br>
