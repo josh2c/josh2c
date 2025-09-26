@@ -1,7 +1,7 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Josh Garcia</a></b>
+                <b><a target="_blank" href="https://josh2c.github.io/jgarcia/index.html">Josh Garcia</a></b>
         </samp>
 </h3>
 <br>
@@ -13,10 +13,3 @@
                 <br>
                 「 Focused on creating</b> 」
                 <br>
-                <br>
-       
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Happy Coding👨‍💻"
-    </p>
