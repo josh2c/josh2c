@@ -1,4 +1,4 @@
-
+<pre>
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://josh2c.github.io/jgarcia/index.html">Josh Garcia</a></b>
@@ -14,3 +14,4 @@
                 「 Focused on creating</b> 」
                 <br>
                 
+</pre>
