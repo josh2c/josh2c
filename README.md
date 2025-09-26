@@ -1,6 +1,6 @@
 
 <h3 align="left">
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; Hey There! I am
               <b>Josh Garcia</b> 👾
         </samp>
 </h3>
